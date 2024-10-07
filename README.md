@@ -3,8 +3,8 @@
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
   <a href="https://github.com/keslonmagdiel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=dark&title_color=FF5733&text_color=C0C0C0&icon_color=FFD700&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ### Linguagens e Tecnologias:
