@@ -3,7 +3,7 @@
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
   <a href="https://github.com/keslonmagdiel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=dark&title_color=FF5733&text_color=C0C0C0&icon_color=FFD700&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;"><br>
   <img align="center" alt="Keslon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Keslon-R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Keslon-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Keslon-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresqlk/postgresql-original.svg">
   <img align="center" alt="Keslon-Spark" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
   <img align="center" alt="Keslon-Hadoop" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
   <img align="center" alt="Keslon-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
