@@ -1,4 +1,18 @@
 ## Oiii, eu sou o Keslon Magdiel Silva Santos, Cientista de Dados, Engenheiro de Dados e Analista de Dados!
+Atualmente trabalho como Cientista de Dados na Loqed Systems, onde sou responsável por identificar tendências e padrões em conjuntos de dados, criar relatórios detalhados para gestores, além de projetar, criar e manter sistemas e bancos de dados robustos. Tenho ampla experiência no desenvolvimento de projetos de Business Intelligence e na automação de processos utilizando Python, SQL e Power BI.
+
+Com uma sólida formação em Ciência de Dados e Inteligência Artificial, estou sempre focado em transformar dados brutos em informações valiosas para a tomada de decisões estratégicas. Além disso, tenho experiência em diferentes áreas de TI, como infraestrutura, suporte a sistemas e segurança da informação.
+
+Ferramentas e Tecnologias que utilizo no meu dia a dia:
+
+Python
+Power BI
+SQL Server
+Excel
+DAX
+Power Query
+MySQL
+Sou apaixonado por novas tecnologias e pela aplicação de soluções baseadas em dados para resolver problemas complexos. Além disso, continuo a expandir meus conhecimentos com formações como Engenharia de Dados e Ciência de Dados, buscando sempre estar à frente nas tendências tecnológicas.
 
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
