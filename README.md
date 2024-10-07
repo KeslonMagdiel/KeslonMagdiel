@@ -7,7 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas por Keslon"/>
 </div>
 
-### Estatísticas Avançadas:
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keslonmagdiel&theme=dracula" alt="Estatísticas avançadas de Keslon no GitHub"/>
 </div>
