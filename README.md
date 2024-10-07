@@ -23,8 +23,8 @@
   <img align="center" alt="Keslon-ScikitLearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="Keslon-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Keslon-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Keslon-Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Keslon-Airflow" height="30" width="40" src="https://airflow.apache.org/images/feature-image.png">
+  <img align="center" alt="Keslon-Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Keslon-Airflow" height="30" width="40" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png">
 </div>
 
 ### Contatos:
