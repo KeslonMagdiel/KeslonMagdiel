@@ -1,4 +1,4 @@
-## Oiii, eu sou o Keslon Magdiel Silva Santos, Cientista de Dados, Engenheiro de Dados e Analista de Dados!
+## Ola, seja be-vindo(a)!
 Atualmente, atuo como Cientista de Dados, onde sou responsável por analisar grandes volumes de dados, desenvolver sistemas de Business Intelligence e criar soluções automatizadas para melhorar a tomada de decisões. Tenho experiência sólida em ferramentas como Python, SQL, Power BI, e sou especializado em transformar dados brutos em insights valiosos.
 
 Ferramentas e Tecnologias que utilizo no meu dia a dia:
