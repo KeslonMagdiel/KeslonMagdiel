@@ -1,18 +1,13 @@
 ## Oiii, eu sou o Keslon Magdiel Silva Santos, Cientista de Dados, Engenheiro de Dados e Analista de Dados!
-Atualmente trabalho como Cientista de Dados na Loqed Systems, onde sou responsável por identificar tendências e padrões em conjuntos de dados, criar relatórios detalhados para gestores, além de projetar, criar e manter sistemas e bancos de dados robustos. Tenho ampla experiência no desenvolvimento de projetos de Business Intelligence e na automação de processos utilizando Python, SQL e Power BI.
-
-Com uma sólida formação em Ciência de Dados e Inteligência Artificial, estou sempre focado em transformar dados brutos em informações valiosas para a tomada de decisões estratégicas. Além disso, tenho experiência em diferentes áreas de TI, como infraestrutura, suporte a sistemas e segurança da informação.
+Atualmente, atuo como Cientista de Dados na Loqed Systems, onde sou responsável por analisar grandes volumes de dados, desenvolver sistemas de Business Intelligence e criar soluções automatizadas para melhorar a tomada de decisões. Tenho experiência sólida em ferramentas como Python, SQL, Power BI, e sou especializado em transformar dados brutos em insights valiosos.
 
 Ferramentas e Tecnologias que utilizo no meu dia a dia:
-
-Python
-Power BI
-SQL Server
-Excel
-DAX
-Power Query
-MySQL
-Sou apaixonado por novas tecnologias e pela aplicação de soluções baseadas em dados para resolver problemas complexos. Além disso, continuo a expandir meus conhecimentos com formações como Engenharia de Dados e Ciência de Dados, buscando sempre estar à frente nas tendências tecnológicas.
+Python – para automação, análise de dados e machine learning.
+Power BI – para criação de dashboards interativos e relatórios visuais.
+SQL (MySQL, SQL Server) – para consultas avançadas e gerenciamento de grandes bancos de dados.
+Excel e DAX – para análises e cálculos rápidos e eficientes.
+Power Query – para transformar e preparar dados.
+Sou apaixonado por resolver problemas complexos com soluções baseadas em dados e sempre estou buscando novos conhecimentos e tendências no campo da Ciência e Engenharia de Dados.
 
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
