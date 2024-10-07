@@ -7,6 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### Estatísticas Avançadas:
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keslonmagdiel&theme=dracula"/>
+</div>
+
 ### Linguagens e Tecnologias:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;"><br>
   <img align="center" alt="Keslon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
