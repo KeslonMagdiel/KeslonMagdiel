@@ -24,7 +24,7 @@
   <img align="center" alt="Keslon-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Keslon-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Keslon-Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="Keslon-Airflow" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Airflow_logo.svg">
+  <img align="center" alt="Keslon-Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
 </div>
 
 ### Contatos:
