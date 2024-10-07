@@ -12,8 +12,8 @@
   <img align="center" alt="Keslon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Keslon-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Keslon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Keslon-Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="Keslon-Hadoop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg">
+  <img align="center" alt="Keslon-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+  <img align="center" alt="Keslon-Hadoop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
   <img align="center" alt="Keslon-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Keslon-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Keslon-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
