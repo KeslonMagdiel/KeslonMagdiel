@@ -3,7 +3,7 @@
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
   <a href="https://github.com/keslonmagdiel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
