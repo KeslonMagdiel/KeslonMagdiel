@@ -26,7 +26,6 @@ Sou apaixonado por resolver problemas complexos com soluções baseadas em dados
   <img align="center" alt="Keslon-R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Keslon-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Keslon-Spark" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
-  <img align="center" alt="Keslon-Hadoop" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
   <img align="center" alt="Keslon-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Keslon-Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Keslon-AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
@@ -37,7 +36,6 @@ Sou apaixonado por resolver problemas complexos com soluções baseadas em dados
   <img align="center" alt="Keslon-NumPy" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Keslon-Pandas" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Keslon-Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="Keslon-Airflow" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Airflow_logo.svg">
 </div>
 
 ### Contatos:
