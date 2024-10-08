@@ -12,7 +12,6 @@ Sou apaixonado por resolver problemas complexos com soluções baseadas em dados
 ### Ferramentas e Tecnologias que uso no meu dia a dia:
 <div align="center">
   <a href="https://github.com/keslonmagdiel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Keslon"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas por Keslon"/>
 </div>
 
