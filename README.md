@@ -18,9 +18,9 @@ Sou apaixonado por ciência de dados e engenharia de dados, sempre buscando nova
   <img align="center" alt="Keslon-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Keslon-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Keslon-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img align="center" alt="Keslon-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft-excel/microsoft-excel-original.svg">
-  <img align="center" alt="Keslon-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
-  <img align="center" alt="Keslon-Pentaho" height="30" width="40" src="https://user-images.githubusercontent.com/14828020/45188188-09172f80-b21b-11e8-9788-dc8822c3a717.png">
+  <img align="center" alt="Keslon-Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+  <img align="center" alt="Keslon-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Keslon-Pentaho" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Pentaho-logo-2017.png">
 </div>  
 <br/>
 
