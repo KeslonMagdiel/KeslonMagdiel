@@ -26,9 +26,7 @@ Sou apaixonado por resolver problemas complexos com soluções baseadas em dados
   <img align="center" alt="Keslon-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Keslon-Spark" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
   <img align="center" alt="Keslon-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Keslon-Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Keslon-AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Keslon-TensorFlow" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
   <img align="center" alt="Keslon-PowerBI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Keslon-Tableau" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">
   <img align="center" alt="Keslon-ScikitLearn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
