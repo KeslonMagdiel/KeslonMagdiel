@@ -4,7 +4,6 @@ Sou apaixonado por ciência de dados e engenharia de dados, sempre buscando nova
 🌍 Atualmente moro em Guará, Distrito Federal, Brasil.  
 🎓 Ciência de Dados e Inteligência Artificial em constante aprimoramento.  
 📧 Entre em contato comigo: (61)99640-8582
-
 🚀 E-mails: keslon762@gmail.com e keslonkeslon04@gmail.com
 
 <div align="center"> 
