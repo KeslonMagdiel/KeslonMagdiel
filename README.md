@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f61&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60" />
 </h1>
+
 
 <h3 align="center">👋 Seja bem-vindo(a)!</h3>
 
