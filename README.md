@@ -1,32 +1,43 @@
-Hello, I'm Keslon Magdiel! Data Scientist & Data Engineer 🧠🚀  
-Sou apaixonado por ciência de dados e engenharia de dados, sempre buscando novas formas de transformar grandes volumes de dados em insights valiosos e soluções automatizadas. Acredito no poder dos dados para otimizar processos e gerar inovações que fazem a diferença. Bem-vindo ao meu GitHub!
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60&animation=fadeIn">
+</h1>
 
-🌍 Atualmente moro em Guará, Distrito Federal, Brasil.  
-🎓 Ciência de Dados e Inteligência Artificial em constante aprimoramento.  
-📧 Entre em contato comigo: (61)99640-8582
+<h3 align="center">Be Welcome! :)</h3>
 
-🚀 E-mails: keslon762@gmail.com e keslonkeslon04@gmail.com
+- 🎓 **Engenheiro de Dados** com atuação em ambientes corporativos e projetos de inteligência de dados.
+- 🎯 Experiência em **Data Engineering | DevOps | Python | Cloud | Pipelines de Dados**
+- 💼 Atuação na **Loqed Systems**
+- 📊 **Certificação:** Google Data Analytics Professional - Coursera
+- 👨‍💻 Tecnologias: **Python | Airflow | SQL | Snowflake | Terraform | AWS | Power BI | Docker**
+- 📍 **Localização:** Brasil
+- 🎂 **Idade:** 23 anos (2001)
 
-<div align="center"> 
-  <a href="https://github.com/KeslonMagdiel"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeslonMagdiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeslonMagdiel&layout=compact&langs_count=7&theme=dark"/> 
-  </a>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Keslon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Keslon-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Keslon-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Keslon-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Keslon-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img align="center" alt="Keslon-Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
-  <img align="center" alt="Keslon-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Keslon-Pentaho" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Pentaho-logo-2017.png">
-</div>  
-<br/>
+### 📊 Keslon's GitHub Stats
 
-<div> 
-  <a href="mailto:keslonkeslon04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/keslon-magdiel-43a226243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keslonmagdiel&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🧠 Áreas de Interesse
+
+- Engenharia de Dados e Arquitetura de Pipelines
+- Infraestrutura como Código e Automação
+- Inteligência de Dados e Visualização
+- Ciência de Dados aplicada à segurança e comportamento do usuário
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/keslon-magdiel-43a226243/)
+- E-mail: **keslonmagdiel@gmail.com**
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keslonmagdiel&theme=react-dark)
+
