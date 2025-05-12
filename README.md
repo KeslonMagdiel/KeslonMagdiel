@@ -2,19 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60&animation=fadeIn">
 </h1>
 
-<h3 align="center">Be Welcome! :)</h3>
+<h3 align="center">👋 Seja bem-vindo(a)!</h3>
 
-- 🎓 **Engenheiro de Dados** com atuação em ambientes corporativos e projetos de inteligência de dados.
-- 🎯 Experiência em **Data Engineering | DevOps | Python | Cloud | Pipelines de Dados**
-- 💼 Atuação na **Loqed Systems**
-- 📊 **Certificação:** Google Data Analytics Professional - Coursera
-- 👨‍💻 Tecnologias: **Python | Airflow | SQL | Snowflake | Terraform | AWS | Power BI | Docker**
-- 📍 **Localização:** Brasil
-- 🎂 **Idade:** 23 anos (2001)
+🚀 **Engenheiro de Dados** com foco em transformar dados em inteligência para decisões estratégicas.
+
+🔍 **Expertise em:**
+- Orquestração de pipelines e fluxos de dados em larga escala
+- Integração e transformação de dados com foco em performance e governança
+- Soluções baseadas em cloud computing, automação e arquitetura moderna
+
+💼 **Atualmente na:** Loqed Systems  
+🎓 **Certificação:** Google Data Analytics Professional (Coursera)  
+📍 **Localização:** Brasil  
+🎂 **Idade:** 23 anos (nascido em 2001)
 
 ---
 
-### 📊 Keslon's GitHub Stats
+### 🛠️ Stack e Ferramentas
+
+- **Linguagens:** Python, SQL, DAX
+- **Orquestração e ETL:** Apache Airflow, Airbyte, DBT
+- **Cloud & Infra:** AWS, Terraform, Databricks, Microsoft Fabric
+- **Visualização:** Power BI, Tableau
+- **Machine Learning:** Orange, MLFlow
+- **Bancos de Dados:** PostgreSQL, SQL Server, MongoDB (NoSQL)
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keslonmagdiel&show_icons=true&theme=radical" />
@@ -23,21 +38,32 @@
 
 ---
 
-### 🧠 Áreas de Interesse
+### 🔎 Principais Interesses
 
-- Engenharia de Dados e Arquitetura de Pipelines
-- Infraestrutura como Código e Automação
-- Inteligência de Dados e Visualização
-- Ciência de Dados aplicada à segurança e comportamento do usuário
+- Arquitetura de dados e engenharia moderna
+- DataOps e automação de pipelines
+- Cultura orientada a dados (data-driven decision making)
+- Segurança e compliance em ambientes analíticos
 
 ---
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/keslon-magdiel-43a226243/)
-- E-mail: **keslonmagdiel@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/keslon-magdiel-43a226243/)
+- 📧 E-mail: **keslon762@gmail.com**
 
 ---
 
+### 🗂️ Histórico de Contribuições
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keslonmagdiel&theme=react-dark)
+
+---
+
+### 🧰 Tecnologias que já utilizei
+
+`Databricks` • `Microsoft Fabric` • `Airbyte` • `Power BI` • `Tableau` • `Power Query`  
+`Orange` • `MLFlow` • `SQL (PostgreSQL, SQL Server)` • `NoSQL (MongoDB, Redis)`
+
+---
 
