@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1a1a1a&textColor=ffffff&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=28&fontAlign=50&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027,203a43,2c5364&height=160&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60&animation=fadeIn" />
 </h1>
 
 
