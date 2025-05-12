@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./banner-keslon.png" alt="Banner Keslon Magdiel | Engenheiro de Dados" style="border-radius:10px;" />
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=180&section=header&text=Transforme%20Problemas.%20Codifique%20Soluções.&fontSize=30&fontAlignY=35&desc=Keslon%20Magdiel%20|%20Engenheiro%20de%20Dados&descAlignY=60&animation=fadeIn">
+</h1>
 
 <h3 align="center">👋 Seja bem-vindo(a)!</h3>
 
@@ -47,13 +47,6 @@
 
 ---
 
-### 🧰 Tecnologias que já utilizei
-
-`Databricks` • `Microsoft Fabric` • `Airbyte` • `Power BI` • `Tableau` • `Power Query`  
-`Orange` • `MLFlow` • `SQL (PostgreSQL, SQL Server)` • `NoSQL (MongoDB, Redis)`
-
----
-
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/keslon-magdiel-43a226243/)
@@ -61,6 +54,16 @@
 
 ---
 
-### 📈 Contribuições Recentes
+### 🗂️ Histórico de Contribuições
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keslonmagdiel&theme=react-dark)
+
+---
+
+### 🧰 Tecnologias que já utilizei
+
+`Databricks` • `Microsoft Fabric` • `Airbyte` • `Power BI` • `Tableau` • `Power Query`  
+`Orange` • `MLFlow` • `SQL (PostgreSQL, SQL Server)` • `NoSQL (MongoDB, Redis)`
+
+---
+
