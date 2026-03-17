@@ -10,6 +10,7 @@
 🔍 **Expertise em:**
 - Orquestração de pipelines e fluxos de dados em larga escala
 - Integração e transformação de dados com foco em performance e governança
+- Business Inteligence
 - Soluções baseadas em cloud computing, automação e arquitetura moderna
 
 ---
